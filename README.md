@@ -1,6 +1,7 @@
 <!---
 {
   "id": "0508295d-de49-4a67-8113-efebffc62d96",
+  "teaches": "Using the Windows Terminal",
   "depends_on": [],
   "author": "Stephan Bökelmann",
   "first_used": "2025-03-30",
